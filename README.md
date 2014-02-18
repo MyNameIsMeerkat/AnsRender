@@ -10,7 +10,7 @@ python AnsRender.py <file_to_view.ans>
 ```
 Which will render out the image using the correct codepage 437 like below:
 
-![image](https://github.com/MyNameIsMeerkat/AnsRender/blob/master/example.png)
+![image](https://raw.github.com/MyNameIsMeerkat/AnsRender/master/example.png)
 
 The quality of the render will depend on the width of the terminal, 80 columns wide is generally recommended and you will get a warning if a different width terminal is detected.
 
