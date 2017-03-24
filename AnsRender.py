@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #-----------------------------------------------------------
 # Filename      : AnsRender.py
 # Description   : Dirty terminal display of .ans files (ANSI art)
