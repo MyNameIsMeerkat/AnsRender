@@ -45,6 +45,6 @@ if __name__ == "__main__":
     import sys
     data = open(sys.argv[1], "rb").read()
 
-    print ANSIRender(data)
+    print ANSIRender(data).encode('utf-8')
 
 
