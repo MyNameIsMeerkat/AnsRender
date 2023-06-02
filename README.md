@@ -1,4 +1,4 @@
-#AnsRender
+# AnsRender
 
 
 A tiny Python script to render ANSI art (.ANS) files in the terminal.
@@ -18,5 +18,5 @@ Also the fixed width used in the terminal will also change how nicely the charac
 
 For this to work on MS Windows you will need to install the `colorama` module.
 
-###Refs
-Lots of examples of ANSI art from AAA in `.ans` format can be found here: [http://www.acid.org/ftp/aaa-8991.zip]()
+### Refs
+Lots of examples of ANSI art from AAA in `.ans` format can be found here: [http://artscene.textfiles.com/ansi/](http://artscene.textfiles.com/ansi/)
