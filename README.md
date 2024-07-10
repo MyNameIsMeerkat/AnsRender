@@ -20,3 +20,4 @@ For this to work on MS Windows you will need to install the `colorama` module.
 
 ### Refs
 Lots of examples of ANSI art from AAA in `.ans` format can be found here: [http://artscene.textfiles.com/ansi/](http://artscene.textfiles.com/ansi/)
+
